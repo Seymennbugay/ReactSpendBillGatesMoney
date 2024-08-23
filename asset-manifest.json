@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactSpendBillGatesMoney/static/css/main.9adbf2bc.css",
+    "main.js": "/ReactSpendBillGatesMoney/static/js/main.4352717e.js",
+    "static/media/club.jpg": "/ReactSpendBillGatesMoney/static/media/club.0111af968bef4ef2f63f.jpg",
+    "static/media/tiger.jpg": "/ReactSpendBillGatesMoney/static/media/tiger.890034aa285289d42960.jpg",
+    "static/media/nflteam.jpg": "/ReactSpendBillGatesMoney/static/media/nflteam.2803c91e220301d6503d.jpg",
+    "static/media/tomahawk.jpg": "/ReactSpendBillGatesMoney/static/media/tomahawk.7db6c5ad8df779cb01c2.jpg",
+    "static/media/rolex.jpg": "/ReactSpendBillGatesMoney/static/media/rolex.9fe0289f633326d5b453.jpg",
+    "static/media/luxcar.jpg": "/ReactSpendBillGatesMoney/static/media/luxcar.473155d853d1dbc8cec6.jpg",
+    "static/media/batmansuit.jpg": "/ReactSpendBillGatesMoney/static/media/batmansuit.deb5b254c89fe4d5da11.jpg",
+    "static/media/rapcompany.png.jpg": "/ReactSpendBillGatesMoney/static/media/rapcompany.png.e65f225dab8115bb55d4.jpg",
+    "static/media/soldier.jpg": "/ReactSpendBillGatesMoney/static/media/soldier.ae6b8a2cbedeaf6765e9.jpg",
+    "static/media/spaceship.jpg": "/ReactSpendBillGatesMoney/static/media/spaceship.2ec4a9bc93d7cf610f9a.jpg",
+    "static/media/bill.webp": "/ReactSpendBillGatesMoney/static/media/bill.10cf29b7b5aefabdb003.webp",
+    "index.html": "/ReactSpendBillGatesMoney/index.html",
+    "main.9adbf2bc.css.map": "/ReactSpendBillGatesMoney/static/css/main.9adbf2bc.css.map",
+    "main.4352717e.js.map": "/ReactSpendBillGatesMoney/static/js/main.4352717e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9adbf2bc.css",
+    "static/js/main.4352717e.js"
+  ]
+}
