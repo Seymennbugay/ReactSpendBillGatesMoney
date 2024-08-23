@@ -1,0 +1,31 @@
+/* PurchasedItems.css */
+.purchased-items-container {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .list-group-item {
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .list-group-item:nth-child(even) {
+    background-color: #f1f1f1;
+  }
+  
+  .badge {
+    font-size: 16px;
+    padding: 8px 12px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem;
+  }
+  

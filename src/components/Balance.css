@@ -1,0 +1,32 @@
+.money-part-container {
+    background-color: white;
+}
+
+.money-part-img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%; /* Yuvarlak yapar */
+    border: 5px solid #ddd; /* İnce bir kenarlık */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+    width: 200px;
+    height: 200px;
+    object-fit: cover; /* Resmi kutuya sığdırır */
+}
+
+.money-part-header-1 {
+    font-size: 2em; /* Başlık boyutu */
+}
+
+.money-part-header-2 {
+    font-size: 2em;
+    background-color: #4caf50; /* Yeşil tonlu arka plan */
+    color: white; /* Yazı rengi */
+    padding: 20px;
+    border-radius: 10px; /* Yuvarlak köşeler */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase; /* Büyük harfler */
+    letter-spacing: 2px; /* Harfler arası boşluk */
+    margin-top: 20px;
+}
